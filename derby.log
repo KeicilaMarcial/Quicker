@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jun 25 20:09:36 BRT 2018:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instância a816c00e-0164-3935-a80d-000000d599d8
+no diretório de banco de dados C:\Users\Notebook\Desktop\Backup\D\backup\Modulo2\projetoFinal\ProjetoQuickerKeicila\projetoQuicker 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\Users\Notebook\Desktop\Backup\D\backup\Modulo2\projetoFinal\ProjetoQuickerKeicila
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''

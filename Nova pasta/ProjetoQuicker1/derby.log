@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jul 10 17:13:26 GMT-03:00 2014:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instância a816c00e-0147-21e8-ba41-0000016fefd0
+no diretório de banco de dados D:\Users\alunov2\Documents\ProjetoQuicker\Nova pasta\ProjetoQuicker1\projetoquicker  
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_45-b18
+user.dir=D:\Users\alunov2\Documents\ProjetoQuicker\Nova pasta\ProjetoQuicker1
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''

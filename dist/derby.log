@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jun 20 14:40:00 BRT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0164-1e48-1ffd-0000008cbea8 
+on database directory C:\Users\Notebook\Desktop\Backup\D\backup\Modulo2\projetoFinal\ProjetoQuickerKeicila\dist\ProjetoQuicker  with class loader sun.misc.Launcher$AppClassLoader@52e922 
+Loaded from file:/C:/Users/Notebook/Desktop/Backup/D/backup/Modulo2/projetoFinal/ProjetoQuickerKeicila/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\Users\Notebook\Desktop\Backup\D\backup\Modulo2\projetoFinal\ProjetoQuickerKeicila\dist
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
